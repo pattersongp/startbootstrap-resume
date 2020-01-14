@@ -2,6 +2,8 @@
 
 // Restate Bootstrap Variables
 
+// https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=1675d1&secondary.color=FFC107
+
 $white:    #fff !default;
 $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
@@ -27,15 +29,19 @@ $cyan:    #17a2b8 !default;
 
 
 $blue-prim-prim: #1675d1 !default;
+$blue-prim-light: #62a4ff !default;
+$blue-prim-dark: #004a9f !default;
 
-$primary:       $blue-prim-prim !default; //$orange !default;
-$secondary:     $gray-600 !default;
+$amber-prim-prim: #ffc107 !default;
+
+$primary:       $blue-prim-prim !default;
+$secondary:     $amber-prim-prim !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
-$light:         $gray-100 !default;
-$dark:          $gray-800 !default;
+$light:         $blue-prim-light !default;
+$dark:          $blue-prim-dark !default;
 
 // Page Variables
 
