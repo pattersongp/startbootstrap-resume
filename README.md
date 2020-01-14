@@ -2,7 +2,7 @@
 
 ## Preview
 
-**[View Live Preview](https://pattersongp.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://pattersongp.github.io/wedding-website/)**
 
 ## Copyright and License
 
