@@ -31,10 +31,14 @@ $cyan:    #17a2b8 !default;
 $blue-prim-prim: #1675d1 !default;
 $blue-prim-light: #62a4ff !default;
 $blue-prim-dark: #004a9f !default;
-
 $amber-prim-prim: #ffc107 !default;
 
-$primary:       $blue-prim-prim !default;
+$manhatta-blue-prim: #aecfe6 !default;
+$manhatta-background-light: #f3ebe0 !default;
+$manhatta-dark-text: #5A472A !default;
+
+// $primary:       $blue-prim-prim !default;
+$primary:       $manhatta-blue-prim !default;
 $secondary:     $amber-prim-prim !default;
 $success:       $green !default;
 $info:          $cyan !default;
