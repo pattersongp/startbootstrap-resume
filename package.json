@@ -1,6 +1,6 @@
 {
-    "title": "wedding website",
-    "name": "wedding website",
+    "title": "gpandrd",
+    "name": "gpandrd",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
